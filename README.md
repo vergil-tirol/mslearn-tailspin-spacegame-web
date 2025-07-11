@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/vergiltirol/WOrkFlowPipelineUsingGitandGithub/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=code-workflow)](https://dev.azure.com/vergiltirol/WOrkFlowPipelineUsingGitandGithub/_build/latest?definitionId=3&branchName=code-workflow)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
